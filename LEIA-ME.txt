@@ -1,0 +1,72 @@
+============================================================
+   NEXORA AI — Seu site (guia rápido)
+   Joaquim Guerra Martins — João Pessoa - PB
+============================================================
+
+✅ O QUE VOCÊ TEM AQUI
+------------------------------------------------------------
+- index.html .... Página principal (serviços + quem somos)
+- servicos.html . Serviços detalhados (os 12 serviços)
+- sobre.html .... Sobre nós (história, missão, valores)
+- blog.html ..... Blog / notícias da empresa
+- contato.html .. Fale conosco (formulário que envia e-mail)
+- css/style.css . Visual e animações do site
+- js/main.js .... Interações (menu, animações, formulário)
+
+
+▶ COMO ABRIR O SITE
+------------------------------------------------------------
+Basta dar dois cliques em "index.html". Ele abre no navegador.
+Tudo funciona localmente, sem instalar nada.
+
+
+📧 PARA O E-MAIL DO FORMULÁRIO CHEGAR ATÉ VOCÊ
+------------------------------------------------------------
+O formulário da página "Contato" precisa de um serviço gratuito
+chamado FORMSPREE para enviar as mensagens ao seu e-mail.
+
+Passo a passo (uma vez só, leva 3 minutos):
+
+  1. Acesse:  https://formspree.io
+  2. Crie uma conta grátis usando:
+     joaquimguerramartins6@gmail.com
+  3. Clique em "New form" (Novo formulário) e dê um nome.
+  4. O Formspree vai te mostrar um endereço assim:
+        https://formspree.io/f/abcdwxyz
+  5. Copie a parte final (no exemplo: abcdwxyz).
+  6. Abra o arquivo "contato.html" com o Bloco de Notas,
+     procure por  SEU_ID_FORMSPREE  e troque pelo seu código.
+        Antes:  action="https://formspree.io/f/SEU_ID_FORMSPREE"
+        Depois: action="https://formspree.io/f/abcdwxyz"
+  7. Salve. Pronto! As mensagens chegarão no seu Gmail.
+
+OBS: Enquanto você não configurar o Formspree, o botão de enviar
+abre o aplicativo de e-mail do visitante já preenchido com a
+mensagem endereçada para você (funciona como alternativa).
+
+
+🌐 COMO COLOCAR O SITE NO AR (publicar)
+------------------------------------------------------------
+Opção mais fácil e grátis: Netlify
+  1. Acesse:  https://app.netlify.com/drop
+  2. Arraste a pasta inteira "Meu site" para a página.
+  3. Em segundos seu site estará no ar com um link.
+  (Depois você pode conectar um domínio próprio, ex.: nexora.ai)
+
+Outras opções gratuitas: Vercel, GitHub Pages, Cloudflare Pages.
+
+
+✏️ COMO MUDAR INFORMAÇÕES
+------------------------------------------------------------
+- Nome da empresa: o site usa "Nexora AI" como nome.
+  Se quiser outro nome, abra os arquivos .html no Bloco de Notas
+  e substitua "Nexora" pelo nome desejado.
+- Telefone, e-mail e cidade já estão preenchidos com os seus dados.
+- WhatsApp: os links usam https://wa.me/5583998034123
+  (55 = Brasil, 83 = DDD, + seu número).
+- Cores: dá para mudar no início do arquivo css/style.css
+  (procure por "--brand", "--brand-2", "--brand-3").
+
+
+💜 Qualquer dúvida, é só chamar!
+============================================================

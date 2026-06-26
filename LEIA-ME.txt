@@ -1,5 +1,5 @@
 ============================================================
-   NEXORA AI — Seu site (guia rápido)
+   NOVEX AI — Seu site (guia rápido)
    Joaquim Guerra Martins — João Pessoa - PB
 ============================================================
 
@@ -58,9 +58,9 @@ Outras opções gratuitas: Vercel, GitHub Pages, Cloudflare Pages.
 
 ✏️ COMO MUDAR INFORMAÇÕES
 ------------------------------------------------------------
-- Nome da empresa: o site usa "Nexora AI" como nome.
+- Nome da empresa: o site usa "Novex AI" como nome.
   Se quiser outro nome, abra os arquivos .html no Bloco de Notas
-  e substitua "Nexora" pelo nome desejado.
+  e substitua "Novex" pelo nome desejado.
 - Telefone, e-mail e cidade já estão preenchidos com os seus dados.
 - WhatsApp: os links usam https://wa.me/5583998034123
   (55 = Brasil, 83 = DDD, + seu número).
